@@ -79,6 +79,31 @@ INSERT INTO O_ATTR
 	"ba5eda7a-def5-0000-0000-000000000002",
 	'',
 	'0');
+INSERT INTO O_NBATTR
+	VALUES ("4ab2836d-0d59-472b-ae05-caf39a3ea7a4",
+	"f70195ed-5da3-43dd-b1ba-5c4d1759bad6");
+INSERT INTO O_BATTR
+	VALUES ("4ab2836d-0d59-472b-ae05-caf39a3ea7a4",
+	"f70195ed-5da3-43dd-b1ba-5c4d1759bad6");
+INSERT INTO O_ATTR
+	VALUES ("4ab2836d-0d59-472b-ae05-caf39a3ea7a4",
+	"f70195ed-5da3-43dd-b1ba-5c4d1759bad6",
+	"87e1fcca-4408-4dae-a63d-6d09e7e4a1f5",
+	'last_turn',
+	'',
+	'',
+	'last_turn',
+	0,
+	"dd074cdf-cf2e-43c1-96d4-546b665b3dc9",
+	'',
+	'');
+INSERT INTO S_DT_PROXY
+	VALUES ("dd074cdf-cf2e-43c1-96d4-546b665b3dc9",
+	"00000000-0000-0000-0000-000000000000",
+	'Orientation',
+	'',
+	'',
+	'../../../../IO DTs/IO DTs.xtuml');
 INSERT INTO O_ID
 	VALUES (0,
 	"f70195ed-5da3-43dd-b1ba-5c4d1759bad6");
