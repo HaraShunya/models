@@ -303,7 +303,7 @@ relate n to d across R2;
 d.speed = 255;
 
 n.retreat_duration = 3;
-n.target_duration = 1.5;
+n.target_duration = 4;
 n.last_turn = Orientation::left;
 
 generate navigate1:pop() to n;
